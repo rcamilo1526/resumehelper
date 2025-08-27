@@ -1,4 +1,10 @@
-streamlit
-crewai
-crewai_tools
-langchain_community
+streamlit>=1.28.0
+crewai>=0.25.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+PyPDF2>=3.0.1
+litellm>=1.35.0
+pydantic>=2.5.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+openai>=1.12.0
